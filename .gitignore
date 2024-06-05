@@ -1,0 +1,4 @@
+venv
+auth.json
+db.sqlite
+test
